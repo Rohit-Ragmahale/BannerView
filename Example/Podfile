@@ -1,0 +1,6 @@
+use_frameworks!
+target 'bannerAlert_Tests' do
+  pod 'bannerAlert', :path => '../'
+  
+  
+end
