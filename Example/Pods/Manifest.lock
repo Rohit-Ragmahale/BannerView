@@ -1,0 +1,16 @@
+PODS:
+  - bannerAlert (0.1.0)
+
+DEPENDENCIES:
+  - bannerAlert (from `../`)
+
+EXTERNAL SOURCES:
+  bannerAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bannerAlert: b919744c59b27126edb02e8a22ff71615cdfe432
+
+PODFILE CHECKSUM: c63bb1a72745c9f7302cb55c2d1b36d9e99b37a1
+
+COCOAPODS: 1.7.4

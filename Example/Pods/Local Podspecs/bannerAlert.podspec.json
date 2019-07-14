@@ -1,0 +1,22 @@
+{
+  "name": "bannerAlert",
+  "version": "0.1.0",
+  "summary": "A short description of bannerAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Rohit-Ragmahale/bannerAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rohit-Ragmahale": "rohitragmahale.mobile@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Rohit-Ragmahale/bannerAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bannerAlert/Classes/**/*"
+}

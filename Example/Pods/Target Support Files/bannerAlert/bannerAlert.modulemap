@@ -1,0 +1,6 @@
+framework module bannerAlert {
+  umbrella header "bannerAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
